@@ -1,0 +1,6 @@
+# Exclude all folders except 'app' and 'data'
+*
+!src/
+!src/**
+
+!.gitignore
