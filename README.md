@@ -127,12 +127,8 @@ All inputs are validated in each tab before allowing users to proceed:
 
 **Manigandan V**  
 M.Tech – Modeling and Simulation  
-📍 DIAT Pune  
-💼 Interests: Data Science, Machine Learning, Streamlit, MySQL, and Python Engineering
+M.S - Mathematical Physics
+B.E - Automobile ENgineering
 
----
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
