@@ -126,9 +126,9 @@ All inputs are validated in each tab before allowing users to proceed:
 ## 🧑‍💻 Author
 
 **Manigandan V**  
-M.Tech – Modeling and Simulation  
+M.Tech - Modeling and Simulation  
 M.S - Mathematical Physics
-B.E - Automobile ENgineering
+B.E - Automobile Engineering
 
 
 
